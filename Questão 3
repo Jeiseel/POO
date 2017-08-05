@@ -36,6 +36,4 @@ public class Poligono {
 		}
 		return soma/2;
 	}
-	
-
 }
