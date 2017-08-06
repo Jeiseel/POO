@@ -1,0 +1,4 @@
+// Questão 7
+
+Herança é uma subclasse que herda os métodos e atributos de um super Classe com execução de seus métodos e atributos privados. A herança é uma forma de generalizar as similaridades de outras classes juntando-as em uma classe pai, Na herança é usado o termo (é um). Ela indica um forte nível de acoplamento. Herança é um reaproveitamento do código no tempo de compilação.
+Na composição temos uma instancia de uma classe existente usada como componente de outra classe. nessa composição é usado o termo (tem um) essa composição indica um menor nível de dependência tornando mais flexível maior encapsulamento e menor acoplamento. Reaproveitando o código em tempo de execução.

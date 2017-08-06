@@ -1,0 +1,5 @@
+//Questão5
+
+Sobre posição é quando se reescreve um método já existente de outra classe com mesmas assinaturas mas com fins diferentes expecifico para sua classe.
+Sobrecarga- É uma forma de aumentar as possibilidades de um método ser usado pelo programa principal, podendo ter mais de um método com as mesmas funções mas que recebe parâmetros de formas diferentes para ter um aumento a possibilidade de acesso ao método.
+Diferente da sobreposição a assinatura não precisa ser idêntica para haver sobrecarga.

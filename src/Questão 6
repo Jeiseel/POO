@@ -1,0 +1,5 @@
+//Questão 6
+
+As classes abstratas não podem ser instanciadas, ela serve de modelo para classes chamadas de filhas. Nela estão os métodos genéricos que podem ser implementados ou não nas classes que você deseja implementá-la.
+Interfaces - São padrões definidos através de especificações, como um contrato de uma subclasse com a interface. Ela é totalmente abstrata, todas as classes que implementá-las deve ter todos os seus métodos. Na interface estão métodos que dificilmente serão modificados, então é uma boa forma de proteger o programa de problemas caso 
+Tenha que fazer alguma alteração futura.
