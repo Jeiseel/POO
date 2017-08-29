@@ -1,0 +1,6 @@
+O padrão Observer funciona como assinatura de jornais e revistas ou seja sempre que sai uma nova edição ele avisa aos assinantes e permite a atualizção de suas irmformações.
+Quando precisamos enviar irformações para um grande lista de receptores que necessitam de uma atualização imediata.
+Ele tambem se encaixa na classificação de padrão de Comportamento. 
+Ele se encaixa na classificação de padrão de comportamento porque ele faclita a comunicaçãp entre os objetos, distribuindo as responsabilidades e definindo a comunicação interna.
+Para Implementar um Observer vc tem que implementar a interface Observer que tem um unico metodo update.
+O padrão Observer permite que objetos interessados sejam avisados da mudança de estado .

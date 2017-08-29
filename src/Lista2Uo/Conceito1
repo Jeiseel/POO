@@ -1,0 +1,8 @@
+Um padrão que possibilita a alteração em tempo de execução. 
+O padrão Strategy de ser usado quando
+muitas classes relacionadas diferem apenas no seu comportamento.
+Quando necessita-se de variaveis de um aalgoritimo:
+Quando se precisa ocultar do usuario exposições das estruturas de dados complexas:
+Quando uma classe define cuitos comportamentos e por sua vez eles aparecem como diversos (IFs). Com isso esses comandos condicionais são movidos para sua propia classe Strategy.
+Dentre as 3 categorias de padrões de projetos o padrão Strategy se encaixa na parte do Comportamento. Pós ele permite que muitos objetos com a mesma composição mas de comportamentos diferentes posam receber metodos por composição de uma mesma classe.
+UML é uma linguagem que define uma série de artefatos que nos ajuda na tarefa de modelar e documentar os sistemas orientados a objetos que desenvolvemos.
