@@ -12,5 +12,8 @@ public enum TipoFrete {
 		}
 	};
 	
-	public abstract Frete obterFrete();
+	public Frete obterFrete() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
