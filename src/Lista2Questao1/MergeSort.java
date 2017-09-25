@@ -48,12 +48,3 @@ public int[] mergesort(int[] esq, int[] dir){
 	return aux;
 }
 }
-
-
-
-
-
-
-
-
-
