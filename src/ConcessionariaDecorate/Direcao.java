@@ -1,4 +1,4 @@
-package Concessionaria;
+package ConcessionariaDecorate;
 
 public class Direcao extends Acessorios{
 	

@@ -1,4 +1,4 @@
-package Concessionaria;
+package ConcessionariaDecorate;
 
 public abstract class Acessorios {
 	

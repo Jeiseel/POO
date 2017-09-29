@@ -1,4 +1,4 @@
-package Concessionaria;
+package ConcessionariaDecorate;
 
 public class TesteConcessionaria {
 	public static void main(String [] args){
