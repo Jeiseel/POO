@@ -1,4 +1,4 @@
-package Transportadora;
+package TransportadoraStrategy;
 
 import java.util.Scanner;
 

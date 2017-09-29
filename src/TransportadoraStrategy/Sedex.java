@@ -1,4 +1,4 @@
-package Transportadora;
+package TransportadoraStrategy;
 
 public class Sedex implements Frete {
 	public double calculaPreco(int distancia){

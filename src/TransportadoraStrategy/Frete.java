@@ -1,4 +1,4 @@
-package Transportadora;
+package TransportadoraStrategy;
 
 public interface Frete {
 	
