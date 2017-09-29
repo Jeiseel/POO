@@ -1,4 +1,4 @@
-package Observer;
+package RastreioObserver;
 
 public class MainRastreio {
 	public static void main(String [] args){

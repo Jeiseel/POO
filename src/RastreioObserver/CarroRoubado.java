@@ -1,4 +1,4 @@
-package Observer;
+package RastreioObserver;
 
 import java.util.Observable;
 
