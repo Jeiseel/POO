@@ -1,0 +1,8 @@
+A-) Converter a interface de uma classe em outra interface, esperada pelos clientes.
+O Adapter permite que classes com interfaces  incompativeis trabalhem em conjunto o 
+o que, de outra forma , seria impossivel.
+
+B-) Quando se deseja fazer a interação entre duas com interfaces incompativeis trabelhem em
+conjunto.
+
+C-) 
