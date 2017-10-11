@@ -1,0 +1,8 @@
+A-) Opadrão singleton garante que uma classe tenha apenas uma instancia
+e fornece um ponto global de acesso a ela.
+
+B-) Geralmente quando um recurso global é compartilhado. Também é bastante
+ultilizado para loggin, caching, pools de threads, preferências e configurações de 
+sistemas e etc.
+	Banco de dados geralmente é ultilizada apenas um objeto para realizar a conexão
+	com o banco, porque um objeto é o suficiente para a maioria das aplicações
